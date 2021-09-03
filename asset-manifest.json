@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://whitefeather27.github.io/csb-qgbr8/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://whitefeather27.github.io/csb-qgbr8/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://whitefeather27.github.io/csb-qgbr8/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://whitefeather27.github.io/csb-qgbr8/static/js/runtime-main.93bf9ca8.js",
+    "runtime-main.js.map": "https://whitefeather27.github.io/csb-qgbr8/static/js/runtime-main.93bf9ca8.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://whitefeather27.github.io/csb-qgbr8/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://whitefeather27.github.io/csb-qgbr8/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://whitefeather27.github.io/csb-qgbr8/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://whitefeather27.github.io/csb-qgbr8/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://whitefeather27.github.io/csb-qgbr8/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93bf9ca8.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
